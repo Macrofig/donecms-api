@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Hello World",
+        "content": "<p>Heyooo!!!!</p>",
+        "author": "Juan Orozco"
+    },
+    {
+        "id": 2,
+        "title": "Second Post",
+        "content": "<p>We have some <strong>HTML</strong>!!!</p>",
+        "author": "Juan Orozco"
+    }
+]
