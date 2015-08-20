@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "About",
+            "path": "/about",
+            "content": "<h2>About</h2>"
+        },
+        {
+            "id": 2,
+            "title": "Start",
+            "path": "/start",
+            "content": "<h2>Start here!</h2>"
+        }
+    ],
+    "count":2
+
+}
