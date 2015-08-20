@@ -3,13 +3,13 @@
         {
             "id": 1,
             "title": "About",
-            "path": "/about",
+            "slug": "about",
             "content": "<h2>About</h2>"
         },
         {
             "id": 2,
             "title": "Start",
-            "path": "/start",
+            "slug": "start",
             "content": "<h2>Start here!</h2>"
         }
     ],
